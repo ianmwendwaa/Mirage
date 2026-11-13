@@ -1,0 +1,8 @@
+ktor:
+  deployment:
+    port: 8080
+  application:
+    modules:
+      - com.mirage.plugins.HttpKt.configureHttp
+      - com.mirage.plugins.SerializationKt.configureSerialization
+      - com.mirage.plugins.RoutingKt.configureRouting

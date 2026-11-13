@@ -1,0 +1,10 @@
+ktor:
+  deployment:
+    port: 8080
+  application:
+    modules:
+      - com.mwendwa.HttpKt.configureHttp
+      - com.mwendwa.SerializationKt.configureSerialization
+      - com.mwendwa.RequestValidationKt.configureRequestValidation
+      - com.mwendwa.ExposedKt.configureExposed
+      - com.mwendwa.RoutingKt.configureRouting
