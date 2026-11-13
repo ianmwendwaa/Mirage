@@ -1,0 +1,15 @@
+----------------------------------------------------------------------------------------------------
+								MIRAGE DEVELOPMENT REPORT
+----------------------------------------------------------------------------------------------------
+
+----------------------------------[START_OF_LOG 13/11/2026, 23:18]----------------------------------
+[LOG_DATE]: 13/11/2026, 23:18
+[LOG_MESSAGE]
+First day working on Mirage. Hitting the road made me realize that my tires may low-key need to be
+swapped. I have encountered some slight architectural and logical discrepancies that I hope will
+clear up as the project progresses. One thing I want to put in mind is: give yourself room to make
+the alpha version of Mirage as verbose and 'amateuristic' if need be. Take your time Mwendwa. With
+this in mind, you will most likely achieve 'The Best Gift I can give myself for my 22nd birthday'
+milestone.
+-----------------------------------[END_OF_LOG 13/11/2026, 23:18]-----------------------------------
+

@@ -6,3 +6,4 @@ ktor:
       - com.mirage.plugins.HttpKt.configureHttp
       - com.mirage.plugins.SerializationKt.configureSerialization
       - com.mirage.plugins.RoutingKt.configureRouting
+      - com.mirage.ApplicationMainKt.module

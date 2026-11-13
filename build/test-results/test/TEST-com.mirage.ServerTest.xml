@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mirage.ServerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-11-13T18:54:22.216Z" hostname="DESKTOP-5VJ61BN" time="3.27">
+  <properties/>
+  <testcase name="test_server_response" classname="com.mirage.ServerTest" time="3.258"/>
+  <system-out><![CDATA[2026-11-13 21:54:24.280 [DefaultDispatcher-worker-2 @call-context#3] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2026-11-13 21:54:24.412 [DefaultDispatcher-worker-2 @coroutine#4] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-11-13 21:54:24.804 [DefaultDispatcher-worker-2 @coroutine#4] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4f8b19f3
+2026-11-13 21:54:24.808 [DefaultDispatcher-worker-2 @coroutine#4] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-11-13 21:54:24.931 [DefaultDispatcher-worker-2 @call-context#3] INFO  io.ktor.test - Application started in 0.685 seconds.
+2026-11-13 21:54:24.937 [DefaultDispatcher-worker-1 @coroutine#5] INFO  io.ktor.test - Responding at http://localhost:80
+2026-11-13 21:54:24.937 [DefaultDispatcher-worker-1 @coroutine#5] INFO  io.ktor.test - Responding at https://localhost:443
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
